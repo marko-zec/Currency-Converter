@@ -14,3 +14,5 @@ Supports currency autocompletion, english and croatian languages.
 Exhange rates source: https://www.exchangerate-api.com/
 
 ![Screenshot](screenshot.png)
+
+[DOWNLOAD](https://github.com/marko-zec/Currency-Converter/releases/tag/v1.0)
