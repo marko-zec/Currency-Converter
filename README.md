@@ -2,7 +2,7 @@ Program: Currency Converter
 
 Version: 1.0
 
-### Written in 2022 without AI. Works to this day!
+Written in 2022 without AI. Works to this day!
 
 About:
 
